@@ -112,3 +112,16 @@ h2 {
 .app-description {
   margin-bottom: 40px;
 }
+
+@media (max-width: 700px) {
+  h1 {
+    font-size: 30px;
+  }
+  .mainpictures {
+    display: none;
+  }
+  .launch {
+    display: block;
+    margin: auto;
+  }
+}
