@@ -81,13 +81,6 @@ h2 {
   text-decoration: underline;
 }
 
-.navbar {
-  display: flex;
-  position: fixed;
-  margin-top: -60px;
-  width: 100%;
-  flex-wrap: wrap;
-}
 .launch {
   background: var(--primary-color);
   box-shadow: var(--box-shadow);
